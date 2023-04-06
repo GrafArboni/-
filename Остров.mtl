@@ -1,0 +1,111 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.2747402738)
+
+newmtl Кромка Дуб клей или флис 22х0,5мм
+illum 1
+map_Kd Остров_textures\Шпон на спальни.jpeg
+
+newmtl Шпон Дуб Классический Тангентал х2 МДФ 2800х1300х18 мм
+illum 1
+map_Kd Остров_textures\Шпон на спальни.jpeg
+
+newmtl Hettich Антрацит
+Kd 65 65 65
+illum 1
+
+newmtl 141329 Кромка ABS Ярко-серая 22х0,4мм (300 м.п.) REHAU
+illum 1
+map_Kd Остров_textures\ph151923 Серая мышка.jpg
+
+newmtl Hettich Серый пластик
+Kd 65 65 65
+illum 1
+
+newmtl Пластик черный
+Kd 25 25 25
+illum 1
+
+newmtl Hettich R
+Kd 65 65 65
+illum 1
+
+newmtl Алюминий
+Kd 255 255 255
+illum 1
+
+newmtl Хромк
+Kd 211 211 211
+illum 1
+
+newmtl Neon-лента, SMD 2835, 9,6Вт, 12В, IP20, 4х10 мм, дневной свет
+illum 1
+map_Kd Остров_textures\default.bmp
+
+newmtl Hettich G
+Kd 65 65 65
+illum 1
+
+newmtl ДСП лам. Kronospan K519 SU Серая Мышка 2800х2070х18мм
+illum 1
+map_Kd Остров_textures\ph151923 Серая мышка.jpg
+
+newmtl Kronospan 0164 PE Антрацит 2800х2070х16 мм
+illum 1
+map_Kd Остров_textures\ДСП Egger U 963 ST9 Диамант серый (Антрацит) 2800х2070х18мм.jpg
+
+newmtl 141329 Кромка ABS Ярко-серая 23х0,8мм (150 м.п.) REHAU
+illum 1
+map_Kd Остров_textures\default.bmp
+
+newmtl Hettich Цинк
+Kd 65 65 65
+illum 1
+
+newmtl Hettich Антрацит пластик
+Kd 65 65 65
+illum 1
+
+newmtl Hettich Белый пластик
+Kd 255 255 255
+illum 1
+
+newmtl Hettich Белый
+Kd 255 255 255
+illum 1
+
+newmtl Hettich Y
+Kd 65 65 65
+illum 1
+
+newmtl Заглушка на боковину InnoTech Atira, c лого. Hettich, Темно-Серый
+illum 1
+map_Kd Остров_textures\default.bmp
+
+newmtl Hettich B
+Kd 65 65 65
+illum 1
+
+newmtl Синхронизирующая штанга Synchro bar L-2000
+illum 1
+map_Kd Остров_textures\default.bmp
+
+newmtl Кромка Дуб 22х2
+illum 1
+map_Kd Остров_textures\Шпон на спальни.jpeg
+
+newmtl Фанера ФСФ влагостойкая В/ВВ продольная 18 мм (1 сорт) 2500х1250х18мм
+illum 1
+map_Kd Остров_textures\K003 Дуб крафт золотой.jpg
+
+newmtl Керамогранит NEOLITH ClasStone Strata Argentum riverwashed 12 мм 3200Х1600
+illum 1
+map_Kd Остров_textures\ph129545.jpg
+
+newmtl Уплотнитель цокольный 18 мм (L=3000мм) Thermoplast
+Kd 192 192 192
+illum 1
+
+newmtl Труба 80х40
+Kd 192 192 192
+illum 1
+
